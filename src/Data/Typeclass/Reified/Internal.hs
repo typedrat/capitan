@@ -12,7 +12,6 @@ import           Language.Haskell.TH.Syntax hiding ( Type )
 import qualified Language.Haskell.TH.Syntax as TH
 
 import           Data.Capabilities
-import Debug.Trace
 
 --
 
